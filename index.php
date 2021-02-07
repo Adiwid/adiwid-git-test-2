@@ -10,6 +10,9 @@
 
 <body>
     <h1>Halo Bro</h1>
+    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Enim natus sed nobis quisquam accusamus consequuntur
+        molestiae corrupti suscipit ipsum vero, voluptates saepe, facilis aliquam dicta dolorum doloribus harum
+        consequatur eius.</p>
 </body>
 
 </html>
